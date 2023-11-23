@@ -5,3 +5,8 @@ where certain keys may intermittently register multiple keystrokes for a single 
 registers multiple keystrokes within a very brief time frame, even when the key is pressed only once. The script addresses this issue
 by ensuring that subsequent keystrokes registered in a short time span are disregarded, resulting in the output of the key only for the
 initial stroke. This solution can be applied to various keyboard models facing similar challenges.
+
+## How To Use?
+### Text Guide
+1. Download and install "AutoHotkey" from the official site - www.autohotkey.com
+## Video Guide
