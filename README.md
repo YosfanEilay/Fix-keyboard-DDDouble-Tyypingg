@@ -1,4 +1,4 @@
-# Fix keyboard DDDouble Tyypingg
+# Fix Keyboard DDDouble Tyypingg
 
 ## Issue Explained
 It provides a solution for keyboards experiencing an issue, such as the G613 Logitech keyboard (and potentially other models),
