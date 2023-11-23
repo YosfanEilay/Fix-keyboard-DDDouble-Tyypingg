@@ -8,5 +8,6 @@ initial stroke. This solution can be applied to various keyboard models facing s
 
 ## How To Use?
 ### Text Guide
-1. Download and install "AutoHotkey" from the official site - www.autohotkey.com
+1. Download and install "AutoHotkey" from the official site - www.AutoHotKey.com
+2. On this GitHub Page, press on "<> Code" then "Download ZIP"
 ## Video Guide
