@@ -14,5 +14,7 @@ initial stroke. This solution can be applied to various keyboard models facing s
 3. Extract "Double Typing Fix.ahk" from the ZIP file, and execute it.
 4. Thats it, now the DDDouble Tyypingg will stop.
 ## Video Guide
-![how to use](https://github.com/YosfanEilay/Fix-keyboard-DDDouble-Tyypingg/assets/132997318/52ca6364-e5a2-408d-9831-6ea881ae7a5e)
+https://github.com/YosfanEilay/Fix-keyboard-DDDouble-Tyypingg/assets/132997318/10cc4872-28e8-4316-826a-9369b6f10844
+
+
 
