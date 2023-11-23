@@ -28,3 +28,121 @@ https://github.com/YosfanEilay/Fix-keyboard-DDDouble-Tyypingg/assets/132997318/1
 #### The Actual Process
 "A" key was pressed -> 90 millisecond delay start -> delay end > you can press "A" key again.
 
+## Which Keys Are Delayed ?
+Here is the list, you can change it how you like in the "Double Typing Fix.ahk" script file.
+
+```
+; New hotkeys for lowercase ABC.
+$a::
+$b::
+$c::
+$d::
+$e::
+$f::
+$g::
+$h::
+$i::
+$j::
+$k::
+$l::
+$m::
+$n::
+$o::
+$p::
+$q::
+$r::
+$s::
+$t::
+$u::
+$v::
+$w::
+$x::
+$y::
+$z::
+
+; New hotkey for uppercase ABC:
++A:: ; Shift + A
++B:: ; Shift + B
++C:: ; Shift + C
++D:: ; Shift + D
++E:: ; Shift + E
++F:: ; Shift + F
++G:: ; Shift + G
++H:: ; Shift + H
++I:: ; Shift + I
++J:: ; Shift + J
++K:: ; Shift + K
++L:: ; Shift + L
++M:: ; Shift + M
++N:: ; Shift + N
++O:: ; Shift + O
++P:: ; Shift + P
++Q:: ; Shift + Q
++R:: ; Shift + R
++S:: ; Shift + S
++T:: ; Shift + T
++U:: ; Shift + U
++V:: ; Shift + V
++W:: ; Shift + W
++X:: ; Shift + X
++Y:: ; Shift + Y
++Z:: ; Shift + Z
+
+; New hotkeys for numeric keys.
+$0::
+$1::
+$2::
+$3::
+$4::
+$5::
+$6::
+$7::
+$8::
+$9::
+
+; New hotkeys for numeric keys and NumPad keys.
+$Numpad0::
+$Numpad1::
+$Numpad2::
+$Numpad3::
+$Numpad4::
+$Numpad5::
+$Numpad6::
+$Numpad7::
+$Numpad8::
+$Numpad9::
+
+; New hotkey for operation keys.
+$Enter::
+$BackSpace::
+$Space::
+$Shift::
+
+; New hotkey for special keys.
+$"::
+$?::
+$`:: ; Backtick
+$':: ; Single quote
+$;:: ; Semicolon
+$,:: ; Comma
+$.:: ; Period
+$!:: ; Exclamation mark
+$^:: ; Caret
+$&:: ; Ampersand
+$*:: ; Asterisk
+$(:: ; Left parenthesis
+$):: ; Right parenthesis
+$-:: ; Hyphen (minus sign)
+$_:: ; Underscore
+$+:: ; Plus sign
+${:: ; Braces (curly brackets)
+$}:: ; Braces (curly brackets)
+$[:: ; Square brackets
+$]:: ; Square brackets
+$|:: ; Vertical bar (pipe)
+$\:: ; Backslash
+$/:: ; Forward slash
+$=:: ; Equal Sign
+$<:: ; Arrow
+$>:: ; Arrow
+```
