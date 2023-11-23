@@ -28,8 +28,9 @@ https://github.com/YosfanEilay/Fix-keyboard-DDDouble-Tyypingg/assets/132997318/1
 #### The Actual Process
 "A" key was pressed -> 90 millisecond delay start -> delay end > you can press "A" key again.
 
-## Which Keys Are Delayed ?
-Here is the list, you can change it how you like in the "Double Typing Fix.ahk" script file.
+## Which Keys On My Keyboard Will Be Delayed ?
+Here is the list, you can change it how you like, <br>
+just edit the "Double Typing Fix.ahk" script file.
 
 ```
 ; New hotkeys for lowercase ABC.
