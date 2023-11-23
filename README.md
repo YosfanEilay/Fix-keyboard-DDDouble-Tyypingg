@@ -11,4 +11,6 @@ initial stroke. This solution can be applied to various keyboard models facing s
 ### Text Guide
 1. Download and install "AutoHotkey" from the official site - www.AutoHotKey.com
 2. On this GitHub Page, press on "<> Code" then "Download ZIP"
+3. Extract "Double Typing Fix.ahk" from the ZIP file, and execute it.
+4. Thats it, now the DDDouble Tyypingg will stop.
 ## Video Guide
