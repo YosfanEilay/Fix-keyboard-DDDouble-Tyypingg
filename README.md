@@ -24,5 +24,7 @@ https://github.com/YosfanEilay/Fix-keyboard-DDDouble-Tyypingg/assets/132997318/1
 #### Key Notes
 1. Delay time is in millisecond.
 2. The delay time is the range between each key stroke on the same key
-   (A was pressed > 90 millisecond delay start > delay end > you can press A again.)
+
+#### The Actual Process
+"A" key was pressed -> 90 millisecond delay start -> delay end > you can press "A" key again.
 
