@@ -19,10 +19,10 @@ https://github.com/YosfanEilay/Fix-keyboard-DDDouble-Tyypingg/assets/132997318/1
 
 ## How to Increase or Decrease the Delay ?
 1. Right click the "Double Typing Fix.ahk" script and click "Edit"
-2. And change the "c := 90" to the desire time.
+2. And change the "delay := 90" to the desire time.
 
 #### Key Notes
-1. Delay time is in millisecond.
+1. Default delay is 90 millisecond
 2. The delay time is the range between each key stroke on the same key
 
 #### The Actual Process
