@@ -40,6 +40,8 @@ This will resolve the problem, and you will be able to eliminate DDDouble Tyypin
 ### How To Run "Double Typing Fix.ahk" As Administrator ?
 ![image](https://github.com/YosfanEilay/Fix-keyboard-DDDouble-Tyypingg/assets/132997318/da521beb-c042-4ee2-9890-19920c1eafce)
 
+## List Of Delayed Keys
+You can add\change\remove keys as you like
 ```
 ; New hotkeys for lowercase ABC.
 $a::
