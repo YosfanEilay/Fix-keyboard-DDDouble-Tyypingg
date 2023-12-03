@@ -32,6 +32,14 @@ https://github.com/YosfanEilay/Fix-keyboard-DDDouble-Tyypingg/assets/132997318/1
 Here is the list, you can change it how you like, <br>
 just edit the "Double Typing Fix.ahk" script file.
 
+## The Fix Is Not Working On Elevated Programs (Run As Admin Programs)
+If the DDDouble Tyypingg issue persists on elevated programs like cmd and PowerShell,
+running as administrator, simply execute the "Double Typing Fix.ahk" script as an administrator.
+This will resolve the problem, and you will be able to eliminate DDDouble Tyypingg on elevated programs."
+
+### How To Run "Double Typing Fix.ahk" As Administrator ?
+![image](https://github.com/YosfanEilay/Fix-keyboard-DDDouble-Tyypingg/assets/132997318/da521beb-c042-4ee2-9890-19920c1eafce)
+
 ```
 ; New hotkeys for lowercase ABC.
 $a::
