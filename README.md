@@ -36,7 +36,7 @@ This will resolve the problem, and you will be able to eliminate DDDouble Tyypin
 ### How To Run "Double Typing Fix.ahk" As Administrator ?
 ![image](https://github.com/YosfanEilay/Fix-keyboard-DDDouble-Tyypingg/assets/132997318/da521beb-c042-4ee2-9890-19920c1eafce)
 
-## How to Run "Double Typing Fix.ahk" Automatically Every Time PC is Restart ?
+## How to Run Fix Automatically Every Time PC is Restart ?
 1. Ok your keyboard press winkey + R and write "shell:startup"
 ![image](https://github.com/YosfanEilay/Fix-keyboard-DDDouble-Tyypingg/assets/132997318/86b4c9f6-74f0-4f46-879b-c14916950d27)
 
