@@ -36,6 +36,15 @@ This will resolve the problem, and you will be able to eliminate DDDouble Tyypin
 ### How To Run "Double Typing Fix.ahk" As Administrator ?
 ![image](https://github.com/YosfanEilay/Fix-keyboard-DDDouble-Tyypingg/assets/132997318/da521beb-c042-4ee2-9890-19920c1eafce)
 
+### How to run "Double Typing Fix.ahk" automatically every time PC is restart ?
+1. Ok your keyboard press winkey + R and write "shell:startup"
+![image](https://github.com/YosfanEilay/Fix-keyboard-DDDouble-Tyypingg/assets/132997318/86b4c9f6-74f0-4f46-879b-c14916950d27)
+
+2. Drag and drop the "Double Typing Fix.ahk" to the folder
+![image](https://github.com/YosfanEilay/Fix-keyboard-DDDouble-Tyypingg/assets/132997318/0376ebc0-cb23-4280-baa0-adff89d5106b)
+
+3. Done, now every time you restart the PC the "Double Typing Fix.ahk" will be executed.
+
 ## Which Keys On My Keyboard Will Be Delayed ?
 Here is the list, you can change it how you like, <br>
 just edit the "Double Typing Fix.ahk" script file.
